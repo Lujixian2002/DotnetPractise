@@ -1,0 +1,10 @@
+C:\Users\28061\Desktop\DotNet\commit\Test2\Test2\bin\Debug\netcoreapp3.1\Test2.deps.json
+C:\Users\28061\Desktop\DotNet\commit\Test2\Test2\bin\Debug\netcoreapp3.1\Test2.dll
+C:\Users\28061\Desktop\DotNet\commit\Test2\Test2\bin\Debug\netcoreapp3.1\Test2.pdb
+C:\Users\28061\Desktop\DotNet\commit\Test2\Test2\obj\Debug\netcoreapp3.1\Test2.csproj.AssemblyReference.cache
+C:\Users\28061\Desktop\DotNet\commit\Test2\Test2\obj\Debug\netcoreapp3.1\Test2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\28061\Desktop\DotNet\commit\Test2\Test2\obj\Debug\netcoreapp3.1\Test2.AssemblyInfoInputs.cache
+C:\Users\28061\Desktop\DotNet\commit\Test2\Test2\obj\Debug\netcoreapp3.1\Test2.AssemblyInfo.cs
+C:\Users\28061\Desktop\DotNet\commit\Test2\Test2\obj\Debug\netcoreapp3.1\Test2.csproj.CoreCompileInputs.cache
+C:\Users\28061\Desktop\DotNet\commit\Test2\Test2\obj\Debug\netcoreapp3.1\Test2.dll
+C:\Users\28061\Desktop\DotNet\commit\Test2\Test2\obj\Debug\netcoreapp3.1\Test2.pdb

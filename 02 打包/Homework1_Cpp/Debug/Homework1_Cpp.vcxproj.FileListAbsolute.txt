@@ -1,0 +1,2 @@
+C:\Users\28061\Desktop\DotNet\test\Homework1_Cpp\Homework1_Cpp\Debug\Homework1_Cpp.vcxproj.AssemblyReference.cache
+C:\Users\28061\Desktop\DotNet\test\Homework1_Cpp\Homework1_Cpp\Debug\Homework1_Cpp.vcxproj.CopyComplete

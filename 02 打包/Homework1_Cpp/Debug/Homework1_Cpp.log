@@ -1,0 +1,5 @@
+﻿  TestCpp.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  正在生成代码...
+  TestCpp.obj : 遇到了 MSIL 模块；对 MSIL 禁用了增量链接；正在执行完全链接
+  Homework1_Cpp.vcxproj -> C:\Users\28061\Desktop\DotNet\test\Homework1_Cpp\Debug\Homework1_Cpp.exe

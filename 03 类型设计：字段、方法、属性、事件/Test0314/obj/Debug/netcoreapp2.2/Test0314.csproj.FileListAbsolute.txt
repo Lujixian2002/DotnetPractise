@@ -1,0 +1,13 @@
+C:\Users\28061\Desktop\DotNet\commit\Test0314\Test0314\bin\Debug\netcoreapp2.2\Test0314.deps.json
+C:\Users\28061\Desktop\DotNet\commit\Test0314\Test0314\bin\Debug\netcoreapp2.2\Test0314.runtimeconfig.json
+C:\Users\28061\Desktop\DotNet\commit\Test0314\Test0314\bin\Debug\netcoreapp2.2\Test0314.runtimeconfig.dev.json
+C:\Users\28061\Desktop\DotNet\commit\Test0314\Test0314\bin\Debug\netcoreapp2.2\Test0314.dll
+C:\Users\28061\Desktop\DotNet\commit\Test0314\Test0314\bin\Debug\netcoreapp2.2\Test0314.pdb
+C:\Users\28061\Desktop\DotNet\commit\Test0314\Test0314\obj\Debug\netcoreapp2.2\Test0314.csproj.AssemblyReference.cache
+C:\Users\28061\Desktop\DotNet\commit\Test0314\Test0314\obj\Debug\netcoreapp2.2\Test0314.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\28061\Desktop\DotNet\commit\Test0314\Test0314\obj\Debug\netcoreapp2.2\Test0314.AssemblyInfoInputs.cache
+C:\Users\28061\Desktop\DotNet\commit\Test0314\Test0314\obj\Debug\netcoreapp2.2\Test0314.AssemblyInfo.cs
+C:\Users\28061\Desktop\DotNet\commit\Test0314\Test0314\obj\Debug\netcoreapp2.2\Test0314.csproj.CoreCompileInputs.cache
+C:\Users\28061\Desktop\DotNet\commit\Test0314\Test0314\obj\Debug\netcoreapp2.2\Test0314.dll
+C:\Users\28061\Desktop\DotNet\commit\Test0314\Test0314\obj\Debug\netcoreapp2.2\Test0314.pdb
+C:\Users\28061\Desktop\DotNet\commit\Test0314\Test0314\obj\Debug\netcoreapp2.2\Test0314.genruntimeconfig.cache
