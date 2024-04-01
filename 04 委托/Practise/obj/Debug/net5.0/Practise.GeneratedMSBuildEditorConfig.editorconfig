@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = Practise
-build_property.ProjectDir = C:\Users\28061\Desktop\DotNet\commit\04 委托\Test\Practise\Practise\
+build_property.ProjectDir = C:\Users\28061\Desktop\DotNet\test\04 委托\Practise\
