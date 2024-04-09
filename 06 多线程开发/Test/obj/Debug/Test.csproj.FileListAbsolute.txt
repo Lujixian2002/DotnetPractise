@@ -1,0 +1,7 @@
+C:\Users\28061\Desktop\DotNet\test\06 多线程开发\Test\bin\Debug\Test.exe.config
+C:\Users\28061\Desktop\DotNet\test\06 多线程开发\Test\bin\Debug\Test.exe
+C:\Users\28061\Desktop\DotNet\test\06 多线程开发\Test\bin\Debug\Test.pdb
+C:\Users\28061\Desktop\DotNet\test\06 多线程开发\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\28061\Desktop\DotNet\test\06 多线程开发\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\28061\Desktop\DotNet\test\06 多线程开发\Test\obj\Debug\Test.exe
+C:\Users\28061\Desktop\DotNet\test\06 多线程开发\Test\obj\Debug\Test.pdb
