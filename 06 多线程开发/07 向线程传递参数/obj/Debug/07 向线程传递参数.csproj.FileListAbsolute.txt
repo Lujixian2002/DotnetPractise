@@ -1,0 +1,7 @@
+C:\Users\28061\Desktop\DotNet\test\06 多线程开发\07 向线程传递参数\bin\Debug\07 向线程传递参数.exe.config
+C:\Users\28061\Desktop\DotNet\test\06 多线程开发\07 向线程传递参数\bin\Debug\07 向线程传递参数.exe
+C:\Users\28061\Desktop\DotNet\test\06 多线程开发\07 向线程传递参数\bin\Debug\07 向线程传递参数.pdb
+C:\Users\28061\Desktop\DotNet\test\06 多线程开发\07 向线程传递参数\obj\Debug\07 向线程传递参数.csproj.AssemblyReference.cache
+C:\Users\28061\Desktop\DotNet\test\06 多线程开发\07 向线程传递参数\obj\Debug\07 向线程传递参数.csproj.CoreCompileInputs.cache
+C:\Users\28061\Desktop\DotNet\test\06 多线程开发\07 向线程传递参数\obj\Debug\07 向线程传递参数.exe
+C:\Users\28061\Desktop\DotNet\test\06 多线程开发\07 向线程传递参数\obj\Debug\07 向线程传递参数.pdb

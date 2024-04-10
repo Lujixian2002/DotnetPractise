@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\28061\\Desktop\\DotNet\\test\\06 多线程开发\\Practise\\Practise.csproj",
-      "projectName": "Practise",
-      "projectPath": "C:\\Users\\28061\\Desktop\\DotNet\\test\\06 多线程开发\\Practise\\Practise.csproj",
+      "projectUniqueName": "C:\\Users\\28061\\Desktop\\DotNet\\test\\06 多线程开发\\Practise\\1.1-1.5.csproj",
+      "projectName": "1.1-1.5",
+      "projectPath": "C:\\Users\\28061\\Desktop\\DotNet\\test\\06 多线程开发\\Practise\\1.1-1.5.csproj",
       "packagesPath": "C:\\Users\\28061\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\28061\\Desktop\\DotNet\\test\\06 多线程开发\\Practise\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,0 +1,7 @@
+C:\Users\28061\Desktop\DotNet\test\06 多线程开发\2.2 死锁\bin\Debug\2.2 死锁.exe.config
+C:\Users\28061\Desktop\DotNet\test\06 多线程开发\2.2 死锁\bin\Debug\2.2 死锁.exe
+C:\Users\28061\Desktop\DotNet\test\06 多线程开发\2.2 死锁\bin\Debug\2.2 死锁.pdb
+C:\Users\28061\Desktop\DotNet\test\06 多线程开发\2.2 死锁\obj\Debug\2.2 死锁.csproj.CoreCompileInputs.cache
+C:\Users\28061\Desktop\DotNet\test\06 多线程开发\2.2 死锁\obj\Debug\2.2 死锁.exe
+C:\Users\28061\Desktop\DotNet\test\06 多线程开发\2.2 死锁\obj\Debug\2.2 死锁.pdb
+C:\Users\28061\Desktop\DotNet\test\06 多线程开发\2.2 死锁\obj\Debug\2.2 死锁.csproj.AssemblyReference.cache

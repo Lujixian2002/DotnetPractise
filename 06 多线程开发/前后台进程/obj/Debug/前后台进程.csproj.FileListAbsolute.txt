@@ -1,0 +1,7 @@
+C:\Users\28061\Desktop\DotNet\test\06 多线程开发\前后台进程\bin\Debug\前后台进程.exe.config
+C:\Users\28061\Desktop\DotNet\test\06 多线程开发\前后台进程\bin\Debug\前后台进程.exe
+C:\Users\28061\Desktop\DotNet\test\06 多线程开发\前后台进程\bin\Debug\前后台进程.pdb
+C:\Users\28061\Desktop\DotNet\test\06 多线程开发\前后台进程\obj\Debug\前后台进程.csproj.AssemblyReference.cache
+C:\Users\28061\Desktop\DotNet\test\06 多线程开发\前后台进程\obj\Debug\前后台进程.csproj.CoreCompileInputs.cache
+C:\Users\28061\Desktop\DotNet\test\06 多线程开发\前后台进程\obj\Debug\前后台进程.exe
+C:\Users\28061\Desktop\DotNet\test\06 多线程开发\前后台进程\obj\Debug\前后台进程.pdb

@@ -1,0 +1,7 @@
+C:\Users\28061\Desktop\DotNet\test\06 多线程开发\线程优先级\bin\Debug\ConsoleApp4.exe.config
+C:\Users\28061\Desktop\DotNet\test\06 多线程开发\线程优先级\bin\Debug\ConsoleApp4.exe
+C:\Users\28061\Desktop\DotNet\test\06 多线程开发\线程优先级\bin\Debug\ConsoleApp4.pdb
+C:\Users\28061\Desktop\DotNet\test\06 多线程开发\线程优先级\obj\Debug\线程优先级.csproj.AssemblyReference.cache
+C:\Users\28061\Desktop\DotNet\test\06 多线程开发\线程优先级\obj\Debug\线程优先级.csproj.CoreCompileInputs.cache
+C:\Users\28061\Desktop\DotNet\test\06 多线程开发\线程优先级\obj\Debug\ConsoleApp4.exe
+C:\Users\28061\Desktop\DotNet\test\06 多线程开发\线程优先级\obj\Debug\ConsoleApp4.pdb

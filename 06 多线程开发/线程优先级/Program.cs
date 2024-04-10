@@ -6,6 +6,11 @@ using System.Diagnostics;
 
 class Program
 {
+	/*
+	 * 这个类的对象在stop前一直被计数
+	 * 如果stop了则会输出计数的值
+	 * 同时输出该线程的优先级
+	 */
 	class ThreadSample
 	{
 		private bool _isStopped = false;
@@ -17,9 +22,7 @@ class Program
 		{
 			long counter = 0;
 			while (!_isStopped)
-			{
 				counter++;
-			}
 			WriteLine($"{CurrentThread.Name} with " +
 				$"{CurrentThread.Priority,11} priority " +
 				$"has a count = {counter,13:N0}");
@@ -27,21 +30,25 @@ class Program
 	}
 	static void RunThreads()
 	{
+		/*
+		 * threadOne优先级高于threadTwo，所以会被更频繁地执行
+		 */
 		var sample = new ThreadSample();
-		var threadOne = new Thread(sample.CountNumbers);
+		var threadOne = new Thread(sample.CountNumbers); 
 		threadOne.Name = "ThreadOne";
 		var threadTwo = new Thread(sample.CountNumbers);
 		threadTwo.Name = "ThreadTwo";
 		threadOne.Priority = ThreadPriority.Highest;
 		threadTwo.Priority = ThreadPriority.Lowest;
-		threadOne.Start();
-		threadTwo.Start();
-		Sleep(TimeSpan.FromSeconds(2));
+		threadOne.Start();   //threadOne开始计数
+		threadTwo.Start();   //threadTwo开始计数
+		// 实际上是两个不同的线程
+		Sleep(TimeSpan.FromSeconds(2));  // 等待两秒后停止
 		sample.Stop();
 	}
 	static void Main(string[] args)
 	{
-		WriteLine($"Current thread priority: {CurrentThread.Priority}");
+		WriteLine($"Current thread priority: {CurrentThread.Priority}");  //主线程的优先级
 		WriteLine("Running on all cores available");
 		RunThreads();
 		Sleep(TimeSpan.FromSeconds(2));

@@ -1,0 +1,6 @@
+C:\Users\28061\Desktop\DotNet\test\06 多线程开发\1.9 使用线程局部存储\bin\Debug\1.9 使用线程局部存储.exe.config
+C:\Users\28061\Desktop\DotNet\test\06 多线程开发\1.9 使用线程局部存储\bin\Debug\1.9 使用线程局部存储.exe
+C:\Users\28061\Desktop\DotNet\test\06 多线程开发\1.9 使用线程局部存储\bin\Debug\1.9 使用线程局部存储.pdb
+C:\Users\28061\Desktop\DotNet\test\06 多线程开发\1.9 使用线程局部存储\obj\Debug\1.9 使用线程局部存储.csproj.CoreCompileInputs.cache
+C:\Users\28061\Desktop\DotNet\test\06 多线程开发\1.9 使用线程局部存储\obj\Debug\1.9 使用线程局部存储.exe
+C:\Users\28061\Desktop\DotNet\test\06 多线程开发\1.9 使用线程局部存储\obj\Debug\1.9 使用线程局部存储.pdb

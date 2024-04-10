@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kIrAvzOTVbza0dRmhMVH48UESzkeNcvj3L8SbfdCh1CVS6xt8rxBmVbWmcKQy6Y4afV6DDnObi3Pfu8OQlUzEw==",
+  "dgSpecHash": "O5x5E5IyNMJizv1fcYPvY0qCPV8j3xcVIdsK7LDfvjGYOeFYgj3bgKv5YqaqlJiZveVw6ocIN1xHZq6KT4HAkQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\28061\\Desktop\\DotNet\\test\\06 多线程开发\\Practise\\Practise.csproj",
+  "projectFilePath": "C:\\Users\\28061\\Desktop\\DotNet\\test\\06 多线程开发\\Practise\\1.1-1.5.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\28061\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
     "C:\\Users\\28061\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
