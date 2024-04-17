@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34601.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "线程池APM异步编程模型", "07 多线程开发\线程池APM异步编程模型.csproj", "{62728DD3-564C-46A2-BF12-081D0944A1DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01 线程同步", "01 线程同步\01 线程同步.csproj", "{1F7C73A6-DBF2-40B0-9322-BD8A3B492E23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02 semaphore", "02 semaphore\02 semaphore.csproj", "{33AF1506-3588-4513-97CE-132C38620C5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07 ReaderWriterLockSlim", "07 ReaderWriterLockSlim\07 ReaderWriterLockSlim.csproj", "{34E9E5CE-5B51-40FD-9AD7-91C08AD103CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnterUpgradeableReadLock的优势", "EnterUpgradeableReadLock的优势\EnterUpgradeableReadLock的优势.csproj", "{2E232141-1FC0-409D-A90C-D31B2DBB3825}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "并发集合", "并发集合\并发集合.csproj", "{FD6259D8-5367-4786-86CD-D7042E32A5BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConcurrentDictionary", "ConcurrentDictionary\ConcurrentDictionary.csproj", "{CE1A8C52-FE44-4793-9EF4-4AB97B136E09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62728DD3-564C-46A2-BF12-081D0944A1DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62728DD3-564C-46A2-BF12-081D0944A1DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62728DD3-564C-46A2-BF12-081D0944A1DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62728DD3-564C-46A2-BF12-081D0944A1DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F7C73A6-DBF2-40B0-9322-BD8A3B492E23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F7C73A6-DBF2-40B0-9322-BD8A3B492E23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F7C73A6-DBF2-40B0-9322-BD8A3B492E23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F7C73A6-DBF2-40B0-9322-BD8A3B492E23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33AF1506-3588-4513-97CE-132C38620C5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33AF1506-3588-4513-97CE-132C38620C5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33AF1506-3588-4513-97CE-132C38620C5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33AF1506-3588-4513-97CE-132C38620C5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34E9E5CE-5B51-40FD-9AD7-91C08AD103CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34E9E5CE-5B51-40FD-9AD7-91C08AD103CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34E9E5CE-5B51-40FD-9AD7-91C08AD103CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34E9E5CE-5B51-40FD-9AD7-91C08AD103CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E232141-1FC0-409D-A90C-D31B2DBB3825}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E232141-1FC0-409D-A90C-D31B2DBB3825}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E232141-1FC0-409D-A90C-D31B2DBB3825}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E232141-1FC0-409D-A90C-D31B2DBB3825}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD6259D8-5367-4786-86CD-D7042E32A5BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD6259D8-5367-4786-86CD-D7042E32A5BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD6259D8-5367-4786-86CD-D7042E32A5BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD6259D8-5367-4786-86CD-D7042E32A5BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE1A8C52-FE44-4793-9EF4-4AB97B136E09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE1A8C52-FE44-4793-9EF4-4AB97B136E09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE1A8C52-FE44-4793-9EF4-4AB97B136E09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE1A8C52-FE44-4793-9EF4-4AB97B136E09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {835EB0C1-B827-45D6-82C4-5CDC64D0EC37}
+	EndGlobalSection
+EndGlobal

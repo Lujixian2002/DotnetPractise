@@ -1,0 +1,7 @@
+C:\Users\28061\Desktop\DotNet\test\07 多线程开发\并发集合\bin\Debug\并发集合.exe.config
+C:\Users\28061\Desktop\DotNet\test\07 多线程开发\并发集合\bin\Debug\并发集合.exe
+C:\Users\28061\Desktop\DotNet\test\07 多线程开发\并发集合\bin\Debug\并发集合.pdb
+C:\Users\28061\Desktop\DotNet\test\07 多线程开发\并发集合\obj\Debug\并发集合.csproj.CoreCompileInputs.cache
+C:\Users\28061\Desktop\DotNet\test\07 多线程开发\并发集合\obj\Debug\并发集合.exe
+C:\Users\28061\Desktop\DotNet\test\07 多线程开发\并发集合\obj\Debug\并发集合.pdb
+C:\Users\28061\Desktop\DotNet\test\07 多线程开发\并发集合\obj\Debug\并发集合.csproj.AssemblyReference.cache

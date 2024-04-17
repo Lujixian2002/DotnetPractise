@@ -1,0 +1,7 @@
+C:\Users\28061\Desktop\DotNet\test\07 多线程开发\07 ReaderWriterLockSlim\bin\Debug\07 ReaderWriterLockSlim.exe.config
+C:\Users\28061\Desktop\DotNet\test\07 多线程开发\07 ReaderWriterLockSlim\bin\Debug\07 ReaderWriterLockSlim.exe
+C:\Users\28061\Desktop\DotNet\test\07 多线程开发\07 ReaderWriterLockSlim\bin\Debug\07 ReaderWriterLockSlim.pdb
+C:\Users\28061\Desktop\DotNet\test\07 多线程开发\07 ReaderWriterLockSlim\obj\Debug\07 ReaderWriterLockSlim.csproj.AssemblyReference.cache
+C:\Users\28061\Desktop\DotNet\test\07 多线程开发\07 ReaderWriterLockSlim\obj\Debug\07 ReaderWriterLockSlim.csproj.CoreCompileInputs.cache
+C:\Users\28061\Desktop\DotNet\test\07 多线程开发\07 ReaderWriterLockSlim\obj\Debug\07 ReaderWriterLockSlim.exe
+C:\Users\28061\Desktop\DotNet\test\07 多线程开发\07 ReaderWriterLockSlim\obj\Debug\07 ReaderWriterLockSlim.pdb

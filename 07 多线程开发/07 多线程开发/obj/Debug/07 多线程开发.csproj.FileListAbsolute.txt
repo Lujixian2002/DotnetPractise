@@ -1,0 +1,7 @@
+C:\Users\28061\Desktop\DotNet\test\07 多线程开发\07 多线程开发\bin\Debug\07 多线程开发.exe.config
+C:\Users\28061\Desktop\DotNet\test\07 多线程开发\07 多线程开发\bin\Debug\07 多线程开发.exe
+C:\Users\28061\Desktop\DotNet\test\07 多线程开发\07 多线程开发\bin\Debug\07 多线程开发.pdb
+C:\Users\28061\Desktop\DotNet\test\07 多线程开发\07 多线程开发\obj\Debug\07 多线程开发.csproj.AssemblyReference.cache
+C:\Users\28061\Desktop\DotNet\test\07 多线程开发\07 多线程开发\obj\Debug\07 多线程开发.csproj.CoreCompileInputs.cache
+C:\Users\28061\Desktop\DotNet\test\07 多线程开发\07 多线程开发\obj\Debug\07 多线程开发.exe
+C:\Users\28061\Desktop\DotNet\test\07 多线程开发\07 多线程开发\obj\Debug\07 多线程开发.pdb

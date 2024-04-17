@@ -1,0 +1,7 @@
+C:\Users\28061\Desktop\DotNet\test\07 多线程开发\01 线程同步\bin\Debug\01 线程同步.exe.config
+C:\Users\28061\Desktop\DotNet\test\07 多线程开发\01 线程同步\bin\Debug\01 线程同步.exe
+C:\Users\28061\Desktop\DotNet\test\07 多线程开发\01 线程同步\bin\Debug\01 线程同步.pdb
+C:\Users\28061\Desktop\DotNet\test\07 多线程开发\01 线程同步\obj\Debug\01 线程同步.csproj.AssemblyReference.cache
+C:\Users\28061\Desktop\DotNet\test\07 多线程开发\01 线程同步\obj\Debug\01 线程同步.csproj.CoreCompileInputs.cache
+C:\Users\28061\Desktop\DotNet\test\07 多线程开发\01 线程同步\obj\Debug\01 线程同步.exe
+C:\Users\28061\Desktop\DotNet\test\07 多线程开发\01 线程同步\obj\Debug\01 线程同步.pdb

@@ -1,0 +1,7 @@
+C:\Users\28061\Desktop\DotNet\test\07 多线程开发\02 semaphore\bin\Debug\02 semaphore.exe.config
+C:\Users\28061\Desktop\DotNet\test\07 多线程开发\02 semaphore\bin\Debug\02 semaphore.exe
+C:\Users\28061\Desktop\DotNet\test\07 多线程开发\02 semaphore\bin\Debug\02 semaphore.pdb
+C:\Users\28061\Desktop\DotNet\test\07 多线程开发\02 semaphore\obj\Debug\02 semaphore.csproj.AssemblyReference.cache
+C:\Users\28061\Desktop\DotNet\test\07 多线程开发\02 semaphore\obj\Debug\02 semaphore.csproj.CoreCompileInputs.cache
+C:\Users\28061\Desktop\DotNet\test\07 多线程开发\02 semaphore\obj\Debug\02 semaphore.exe
+C:\Users\28061\Desktop\DotNet\test\07 多线程开发\02 semaphore\obj\Debug\02 semaphore.pdb
